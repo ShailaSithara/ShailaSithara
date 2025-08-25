@@ -1,6 +1,13 @@
-<!-- Banner -->
+<!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hi%20I'm%20Shaila%20Sithara%20👩‍💻&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Hi%20I'm%20Shaila%20Sithara%20👩‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff6ec4&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Enthusiast;AI+Explorer;Lifelong+Learner+🚀"/>
+  </a>
 </p>
 
 ---
@@ -8,7 +15,7 @@
 ## 👩‍💻 About Me  
 💻 *Flutter Developer* | 📱 *Mobile App Enthusiast* | 🔐 *Tech Explorer*  
 
-🌟 I love building apps that are **simple, beautiful, and solve real-world problems.**  
+🌟 I enjoy building apps that are **simple, beautiful, and solve real-world problems.**  
 Currently diving deep into **Flutter, Dart, Python, and AI concepts**.  
 
 ---
@@ -17,6 +24,13 @@ Currently diving deep into **Flutter, Dart, Python, and AI concepts**.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,sqlite,git,github,vscode,androidstudio" />
 </p>  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 🔐 Other Interests: Cybersecurity | Cryptography | AI  
 
@@ -70,12 +84,16 @@ Currently diving deep into **Flutter, Dart, Python, and AI concepts**.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShailaSithara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailaSithara&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=ff6ec4&fire=ff6ec4&currStreakLabel=ff6ec4" height="160"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=ShailaSithara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailaSithara&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=ff6ec4&fire=ff6ec4&currStreakLabel=ff6ec4" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShailaSithara&color=ff6ec4&style=for-the-badge">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShailaSithara&bg_color=0D1117&color=ff6ec4&line=7873f5&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShailaSithara&color=ff6ec4&style=for-the-badge"/>  
 </p>  
 
 ---
@@ -95,6 +113,11 @@ Currently diving deep into **Flutter, Dart, Python, and AI concepts**.
 </p>  
 
 ---
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 <!-- Footer -->
 <p align="center">
