@@ -1,45 +1,104 @@
-# 👋 Hi, I'm Shaila Sithara  
-
-🚀 Passionate *Flutter Developer* | 📱 Mobile App Enthusiast | 💡 Lifelong Learner  
-
-🌟 I enjoy building apps that are simple, beautiful, and solve real-world problems.  
-Currently exploring *Flutter, Dart, Python, and AI concepts*.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hi%20I'm%20Shaila%20Sithara%20👩‍💻&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack  
-- *Languages:* Dart, Python, Java  
-- *Frameworks:* Flutter  
-- *Databases:* SQLite, Hive, Shared Preferences  
-- *Tools:* Git, GitHub, VS Code, Android Studio  
-- *Other Interests:* Cybersecurity, Cryptography, AI  
+## 👩‍💻 About Me  
+💻 *Flutter Developer* | 📱 *Mobile App Enthusiast* | 🔐 *Tech Explorer*  
+
+🌟 I love building apps that are **simple, beautiful, and solve real-world problems.**  
+Currently diving deep into **Flutter, Dart, Python, and AI concepts**.  
 
 ---
 
-## 📌 Featured Projects  
-- [📖 TasteScape - Recipe App]([https://github.com/yourusername/tastescape](https://github.com/ShailaSithara/TasteScape))  
-  Offline recipe manager with meal planning, bookmarking, and filters  
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,sqlite,git,github,vscode,androidstudio" />
+</p>  
 
+🔐 Other Interests: Cybersecurity | Cryptography | AI  
+
+---
+
+## 🚀 Featured Projects  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📖 TasteScape - Recipe App</h3>
+      <p>A Flutter offline recipe manager that makes cooking fun & organized!</p>
+      <ul>
+        <li>✅ Meal planning & shopping list</li>
+        <li>✅ Bookmarking & smart filters</li>
+        <li>✅ SQLite local storage</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/ShailaSithara/TasteScape">
+          <img src="https://img.shields.io/badge/View%20Project-ff6ec4?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗂️ Student Record DB App</h3>
+      <p>A Flutter CRUD app for managing student records with images & validations.</p>
+      <ul>
+        <li>✅ Add, edit, delete, and search records</li>
+        <li>✅ Profile picture support</li>
+        <li>✅ sqFlite local database</li>
+        <li>✅ Input validations & empty state handling</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/ShailaSithara/StudentRecordApp">
+          <img src="https://img.shields.io/badge/View%20Project-7873f5?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements  
+- 📜 **Python Web Developer Program** – L&T EduTech & ASAP Kerala  
+- 📝 **Published research paper** in *IRJMETS*  
+- 🎯 Growing my skills through **Brototype projects & collaborations**  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShailaSithara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShailaSithara&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=ff6ec4&fire=ff6ec4&currStreakLabel=ff6ec4" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShailaSithara&color=ff6ec4&style=for-the-badge">  
+</p>  
 
 ---
 
-## 🌱 What I'm Up To  
-- Learning *Dart & Flutter advanced concepts*  
-- Exploring *AI in mobile apps*  
-- Practicing *Data Structures & Algorithms*  
-- Reading Atomic Habits by James Clear 📖  
+## 🌱 Currently Exploring  
+- 📱 Advanced **Flutter UI & State Management**  
+- 🤖 **AI in mobile apps**  
+- 🔢 **Data Structures & Algorithms**  
+- 📖 *Atomic Habits* by James Clear  
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/shaila-sithara-tt/))  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shailasitharatt@gmail.com)  
+## 📫 Let’s Connect!  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+</p>  
 
 ---
-✨ “Code. Learn. Build. Repeat.”
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
+</p>
+
+✨ *“Code. Learn. Build. Repeat.”*  
