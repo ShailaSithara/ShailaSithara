@@ -1,239 +1,415 @@
-<!-- Futuristic Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=280&section=header&text=Hi%20I'm%20Shaila%20Sithara%20👩‍💻&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&descSize=18"/>
-</p>
+<!-- Ultra Modern Animated Banner with Particles -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=320&section=header&text=Shaila%20Sithara&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✨%20Flutter%20Wizard%20%7C%20🚀%20Mobile%20Innovator%20%7C%20💫%20AI%20Explorer&descAlignY=65&descSize=22"/>
+</div>
 
-<!-- Enhanced Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Flutter+Developer;📱+Mobile+App+Enthusiast;🤖+AI+Explorer;💡+Problem+Solver;🌟+Lifelong+Learner"/>
-  </a>
-</p>
+<!-- Dynamic Typing Animation with Gradient Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=1000&color=6C63FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌟+Building+the+Future%2C+One+App+at+a+Time;💻+Crafting+Beautiful+Flutter+Experiences;🚀+Turning+Ideas+into+Digital+Reality;⚡+Code+%7C+Create+%7C+Innovate+%7C+Repeat"/>
+</div>
 
-<!-- Profile Views Counter with Animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShailaSithara&color=FF6B6B&style=for-the-badge&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/ShailaSithara?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&logo=github&logoColor=white"/>
-</p>
+<!-- Animated Profile Stats Bar -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShailaSithara&style=for-the-badge&color=blueviolet&label=🌟+Profile+Visitors"/>
+  <img src="https://img.shields.io/github/followers/ShailaSithara?style=for-the-badge&color=ff6b6b&labelColor=2d3748&label=👥+Followers&logo=github"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx"/>
+</div>
 
----
+<br>
 
-## 🎯 About Me
+<!-- Glowing Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+## 🎭 About Me - The Developer Behind the Code
 
-```typescript
-const shaila = {
-    name: "Shaila Sithara",
-    role: "Flutter Developer",
-    location: "Kerala, India",
-    languages: ["Dart", "Python", "Java"],
-    frameworks: ["Flutter", "Django"],
-    currentFocus: "Mobile App Development & AI",
-    hobbies: ["Coding", "Reading", "Learning New Tech"],
-    motto: "Code. Learn. Build. Repeat. 🚀"
+<div>
+  <img align="right" alt="Girl Coding" width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(108, 99, 255, 0.3);"/>
+  
+  <div style="padding-right: 450px;">
+    
+```javascript
+const shailaSithara = {
+    name: "Shaila Sithara 👑",
+    pronouns: "She/Her",
+    location: "Kerala, India 🇮🇳",
+    role: "Flutter Developer & Mobile App Architect",
+    company: "Freelance",
+    education: "Computer Science Enthusiast",
+    
+    currentlyWorking: [
+        "🔥 Advanced Flutter Applications",
+        "🤖 AI-Powered Mobile Solutions", 
+        "🎨 Creative UI/UX Implementations"
+    ],
+    
+    languages: {
+        expert: ["Dart", "Flutter"],
+        proficient: ["Python", "Java", "JavaScript"],
+        learning: ["Kotlin", "Swift", "Rust"]
+    },
+    
+    architecture: ["MVVM", "Clean Architecture", "BLoC Pattern"],
+    databases: ["SQLite", "Firebase", "Hive", "MySQL"],
+    tools: ["VS Code", "Android Studio", "Figma", "Git"],
+    
+    personalityTraits: [
+        "🎯 Problem Solver",
+        "📚 Continuous Learner", 
+        "🌟 Innovation Enthusiast",
+        "🤝 Team Collaborator"
+    ],
+    
+    funFact: "I debug with coffee and solve problems with music! ☕🎵"
 };
 ```
 
-🌟 **Passionate about creating beautiful, functional mobile applications**  
-💡 **Always exploring new technologies and methodologies**  
-🎯 **Currently mastering Flutter, Dart, Python, and AI concepts**  
-📚 **Continuous learner with a growth mindset**
+  </div>
+</div>
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Arsenal
+### 🌈 What Drives Me
+> *"Creating digital experiences that make people's lives easier and more beautiful - that's my passion!"*
 
-<h3 align="center">⚡ Languages & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,javascript,html,css" />
-</p>
+🚀 **Mission:** Building intuitive mobile applications that solve real-world problems  
+💡 **Vision:** Bridging the gap between complex technology and simple user experiences  
+⭐ **Values:** Clean code, beautiful design, and meaningful impact  
 
-<h3 align="center">🗄️ Databases & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,androidstudio,figma" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Animated Tech Stack Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=1a1a1a"/>
-</p>
-
-### 🔍 Other Interests
-```
-🔐 Cybersecurity  |  🔒 Cryptography  |  🤖 Artificial Intelligence  |  📊 Data Science
-```
-
----
-
-## 🌟 Featured Projects
+## 🛠️ Tech Arsenal & Superpowers
 
 <div align="center">
 
-### 📖 TasteScape - Recipe Manager App
-*A beautifully designed Flutter app that makes cooking fun & organized*
+### 💫 Core Technologies
+<img src="https://skillicons.dev/icons?i=dart,flutter,python,java,javascript,typescript,kotlin&perline=7&theme=dark"/>
 
-[![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/ShailaSithara/TasteScape)
-[![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/ShailaSithara/TasteScape)
-[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ShailaSithara/TasteScape)
+### 🎨 Design & Frontend
+<img src="https://skillicons.dev/icons?i=figma,html,css,sass,materialui,tailwind&perline=6&theme=dark"/>
 
+### 🗄️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,nodejs,express,django&perline=6&theme=dark"/>
+
+### ⚡ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,gitlab,docker&perline=6&theme=dark"/>
+
+</div>
+
+<!-- Animated Tech Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/UI/UX-Enthusiast-FF6B6B?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a"/>
+</div>
+
+### 🎯 Specializations & Interests
+<div align="center">
+
+| 🚀 **Mobile Development** | 🤖 **AI & ML** | 🔐 **Security** | 🎨 **Design** |
+|:---:|:---:|:---:|:---:|
+| Flutter Applications | Machine Learning Integration | Cybersecurity Concepts | UI/UX Design |
+| Cross-Platform Solutions | AI-Powered Features | Cryptography Basics | Material Design |
+| Performance Optimization | Data Science | Secure Coding | Animation & Micro-interactions |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Featured Projects Portfolio
+
+<div align="center">
+
+### 🏆 Project Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+<h3>📱 TasteScape - Recipe Master</h3>
+<img src="https://img.shields.io/badge/Featured-Project-gold?style=for-the-badge&logo=star&logoColor=white"/>
+</div>
+
+**🎯 The Ultimate Cooking Companion**
+
+A sophisticated Flutter application that revolutionizes meal planning and recipe management with stunning UI and powerful features.
+
+```yaml
+🌟 Key Features:
+  ✨ Beautiful Material Design 3 UI
+  🍽️ Smart Meal Planning System
+  📚 Advanced Recipe Categorization
+  🛒 Intelligent Shopping Lists
+  🔍 AI-Powered Search & Filters
+  💾 Offline-First Architecture
+  📱 Responsive Cross-Platform Design
 ```
-✨ Features:
-• 🍽️ Smart meal planning & shopping lists
-• 📚 Recipe bookmarking with categories  
-• 🔍 Advanced search & filters
-• 💾 Offline-first with SQLite storage
-• 🎨 Beautiful, intuitive UI/UX
-```
 
+**Tech Stack:**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material-Design-757575?style=flat-square&logo=material-design&logoColor=white"/>
+
+<div align="center">
 <a href="https://github.com/ShailaSithara/TasteScape">
-  <img src="https://img.shields.io/badge/🚀%20View%20Project-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀%20Explore%20Project-6C63FF?style=for-the-badge&logoColor=white"/>
 </a>
+</div>
 
----
+</td>
+<td width="50%">
 
-### 🗂️ Student Record Management System
-*Comprehensive CRUD application with modern UI and robust data handling*
+<div align="center">
+<h3>🎓 StudentHub - Smart Records</h3>
+<img src="https://img.shields.io/badge/Production-Ready-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</div>
 
-[![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/ShailaSithara/StudentRecordApp)
-[![](https://img.shields.io/badge/sqflite-FF6B6B?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ShailaSithara/StudentRecordApp)
+**🎯 Modern Student Management System**
 
+Comprehensive CRUD application with intuitive design, robust data handling, and seamless user experience for educational institutions.
+
+```yaml
+🌟 Key Features:
+  👤 Complete Student Profiles
+  📸 Image Upload & Management
+  🔍 Real-time Search Engine
+  ✅ Advanced Form Validation
+  📊 Analytics Dashboard
+  🎨 Modern Material UI
+  📱 Tablet & Mobile Optimized
 ```
-✨ Features:
-• 👤 Complete student profile management
-• 📸 Profile picture upload & storage
-• 🔍 Real-time search functionality
-• ✅ Input validation & error handling
-• 📱 Responsive design for all screens
-```
 
+**Tech Stack:**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqflite-FF6B6B?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Provider-4FC3F7?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image-Picker-FFA726?style=flat-square&logo=camera&logoColor=white"/>
+
+<div align="center">
 <a href="https://github.com/ShailaSithara/StudentRecordApp">
-  <img src="https://img.shields.io/badge/🚀%20View%20Project-4ECDC4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀%20Explore%20Project-FF6B6B?style=for-the-badge&logoColor=white"/>
 </a>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/More%20Projects%20Coming%20Soon-6C63FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+</div>
 
-## 🏆 Achievements & Milestones
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-| 🎯 Achievement | 📅 Year | 🏢 Organization |
-|:---|:---:|:---|
-| 📜 **Python Web Developer Certificate** | 2024 | L&T EduTech & ASAP Kerala |
-| 📝 **Published Research Paper** | 2024 | IRJMETS Journal |
-| 🚀 **Mobile App Development** | 2024 | Brototype |
-| 🎓 **Flutter Specialist** | 2024 | Self-Taught |
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓-Certificate-gold?style=for-the-badge"/>
+<br><b>Python Web Developer</b>
+<br><i>L&T EduTech & ASAP Kerala</i>
+<br><small>2024</small>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📝-Published-success?style=for-the-badge"/>
+<br><b>Research Paper</b>
+<br><i>IRJMETS Journal</i>
+<br><small>2024</small>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀-Graduate-blueviolet?style=for-the-badge"/>
+<br><b>Mobile Development</b>
+<br><i>Brototype Program</i>
+<br><small>2024</small>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐-Specialist-orange?style=for-the-badge"/>
+<br><b>Flutter Expert</b>
+<br><i>Self-Taught Mastery</i>
+<br><small>2024</small>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  
-### 📈 Performance Overview
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShailaSithara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&ring_color=FF6B6B"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailaSithara&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFEAA7&currStreakLabel=FF6B6B"/>
 
-### 🔥 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShailaSithara&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFEAA7&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+### 🔥 GitHub Stats Overview
 
-### 📊 Most Used Languages
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailaSithara&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShailaSithara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailaSithara&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=FFA726&currStreakLabel=6C63FF&dates=ffffff"/>
+
+### 📈 Contribution Activity Graph
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShailaSithara&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFA726&area=true&hide_border=true&custom_title=✨%20Annual%20Contribution%20Journey"/>
+
+<div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailaSithara&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShailaSithara&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+</div>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌱 Current Learning Journey
+## 🌱 Learning & Growth Journey
 
 <div align="center">
+
+### 🎯 Current Focus Areas (2024)
 
 ```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[📱 Advanced Flutter]
+graph TD
+    A[🎯 Learning Goals 2024] --> B[📱 Advanced Flutter]
     A --> C[🤖 AI Integration]
-    A --> D[🏗️ Clean Architecture]
-    A --> E[📊 Data Structures]
+    A --> D[🏗️ System Design]
+    A --> E[🔒 Security]
     
-    B --> F[State Management]
-    B --> G[Custom Animations]
-    C --> H[ML Kit]
-    C --> I[TensorFlow Lite]
-    D --> J[MVVM Pattern]
-    D --> K[Dependency Injection]
+    B --> F[Custom Widgets]
+    B --> G[Performance Optimization]
+    B --> H[Advanced Animations]
+    
+    C --> I[ML Kit Integration]
+    C --> J[TensorFlow Lite]
+    C --> K[Computer Vision]
+    
+    D --> L[Clean Architecture]
+    D --> M[Microservices]
+    D --> N[Scalable Apps]
+    
+    E --> O[Secure Coding]
+    E --> P[Encryption]
+    E --> Q[Auth Systems]
+    
+    style A fill:#6C63FF,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#FFA726,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#AB47BC,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 </div>
 
-### 📚 Currently Reading
-- 📖 **"Atomic Habits"** by James Clear
-- 💻 **"Clean Code"** by Robert C. Martin
-- 🧠 **"The Pragmatic Programmer"** by David Thomas
+### 📚 Reading List & Resources
 
-### 🎯 2024 Goals
-- [ ] 🚀 Launch 3 Flutter apps on Play Store
-- [ ] 📝 Write 12 technical blog posts
-- [ ] 🤝 Contribute to 5 open-source projects
-- [ ] 🎓 Complete advanced Flutter course
-- [ ] 🤖 Build an AI-powered mobile app
+<div align="center">
 
----
+| 📖 **Currently Reading** | 💻 **Tech Learning** | 🎨 **Design Study** |
+|:---:|:---:|:---:|
+| 🧠 "Atomic Habits" - James Clear | 🔥 Flutter Advanced Patterns | 🎨 Material Design Guidelines |
+| 💻 "Clean Code" - Robert Martin | 🤖 AI in Mobile Development | ✨ Motion Design Principles |
+| 🏗️ "System Design Interview" | 🔐 Mobile Security Best Practices | 🎯 UX Psychology |
+
+</div>
+
+### 🚀 2024 Goals & Milestones
+
+<div align="center">
+
+**🎯 Professional Goals**
+- [x] ✅ Master Flutter Advanced Concepts
+- [x] ✅ Publish 2 Production Apps
+- [ ] 🔄 Contribute to 5 Open Source Projects  
+- [ ] 📝 Write 12 Technical Blog Posts
+- [ ] 🎤 Speak at 2 Tech Conferences
+- [ ] 🤖 Build AI-Powered Mobile App
+
+**📈 Skill Development**
+- [ ] 🎯 Master State Management (BLoC, Riverpod)
+- [ ] 🏗️ Learn System Design Patterns
+- [ ] 🔐 Cybersecurity Certification
+- [ ] 🤖 Machine Learning Specialization
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 💬 Reach Out To Me
+### 💌 Reach Out & Let's Build Something Amazing Together!
 
-<a href="https://www.linkedin.com/in/your-link">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
+<a href="https://www.linkedin.com/in/shaila-sithara">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+<a href="mailto:shailasithara@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
 </a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a"/>
+<a href="https://twitter.com/ShailaSithara">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a"/>
 </a>
-<a href="https://dev.to/your-username">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1a1a1a"/>
+<a href="https://dev.to/shailasithara">
+  <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1a1a1a"/>
+</a>
+<a href="https://medium.com/@shailasithara">
+  <img src="https://img.shields.io/badge/Medium-Stories-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1a1a"/>
 </a>
 
-### 📧 Open for:
+### 🌟 I'm Available For:
+
+<table align="center">
+<tr>
+<td align="center">💼<br><b>Freelance Projects</b><br><i>Flutter App Development</i></td>
+<td align="center">🤝<br><b>Open Source</b><br><i>Community Contributions</i></td>
+<td align="center">💡<br><b>Collaborations</b><br><i>Innovative Ideas</i></td>
+<td align="center">📚<br><b>Mentoring</b><br><i>Knowledge Sharing</i></td>
+</tr>
+</table>
+
+### 📧 Quick Contact
 ```
-💼 Flutter Development Projects  |  🤝 Open Source Collaborations  |  💡 Innovative Ideas  |  📚 Knowledge Sharing
+📱 Mobile Development  |  🤖 AI Integration  |  🎨 UI/UX Design  |  📚 Tech Mentoring
 ```
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Snake Animation -->
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <h3>🐍 Contribution Snake Game</h3>
+  <img src="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Enhanced Footer -->
 <div align="center">
-  
-### 💭 Quote of the Day
-  
-*"The only way to do great work is to love what you do."* - Steve Jobs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=150&section=footer"/>
+### ✨ Daily Inspiration
+
+*"The future belongs to those who believe in the beauty of their dreams."* - Eleanor Roosevelt
+
+### 🌟 Fun Facts About Me
+
+```
+☕ Coffee Enthusiast  |  🎵 Music Lover  |  📚 Bookworm  |  🌍 Travel Dreamer
+🌙 Night Owl Coder   |  🎨 Design Perfectionist  |  🧩 Problem Solver  |  💫 Dreamer & Doer
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&fontSize=0"/>
 
 ---
 
-**✨ Made with ❤️ by Shaila Sithara | Last Updated: 2024**
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-ff6b6b?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Last%20Updated-2024-6C63FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1a1a"/>
+
+**⭐ If you find my work interesting, don't forget to star my repositories! ⭐**
 
 </div>
