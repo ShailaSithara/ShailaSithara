@@ -125,7 +125,7 @@
 📶  Offline-first with Hive DB
 ```
 
-[![View](https://img.shields.io/badge/▶_View_Project-A855F7?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara)
+[![View](https://img.shields.io/badge/▶_View_Project-A855F7?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara/LingoBreeze)
 
 </td>
 <td width="50%" valign="top">
@@ -143,7 +143,7 @@
 ✅  Live preview while editing
 ```
 
-[![View](https://img.shields.io/badge/▶_View_Project-EC4899?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara)
+[![View](https://img.shields.io/badge/▶_View_Project-EC4899?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara/ResumeFY)
 
 </td>
 </tr>
@@ -163,7 +163,7 @@
 🟢  Live online/offline status
 ```
 
-[![View](https://img.shields.io/badge/▶_View_Project-06B6D4?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara)
+[![View](https://img.shields.io/badge/▶_View_Project-06B6D4?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara/ChatApp)
 
 </td>
 <td width="50%" valign="top">
@@ -181,7 +181,7 @@
 🎨  Mouth-watering visual design
 ```
 
-[![View](https://img.shields.io/badge/▶_View_Project-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara)
+[![View](https://img.shields.io/badge/▶_View_Project-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara/TasteScape)
 
 </td>
 </tr>
@@ -201,7 +201,7 @@
 🔔  Real-time notifications
 ```
 
-[![View](https://img.shields.io/badge/▶_View_Project-A855F7?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara)
+[![View](https://img.shields.io/badge/▶_View_Project-A855F7?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara/SocialFeed)
 
 </td>
 <td width="50%" valign="top">
@@ -219,7 +219,7 @@
 📊  Dashboard & reports
 ```
 
-[![View](https://img.shields.io/badge/▶_View_Project-EC4899?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara)
+[![View](https://img.shields.io/badge/▶_View_Project-EC4899?style=for-the-badge&logoColor=white)](https://github.com/ShailaSithara/HospitalManagement)
 
 </td>
 </tr>
