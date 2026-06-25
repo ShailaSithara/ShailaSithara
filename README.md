@@ -6,12 +6,12 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=👩‍💻+Flutter+%26+Dart+Developer;🔥+Firebase+%7C+Hive+%7C+Clean+Architecture;🤖+Building+AI-Powered+Mobile+Apps;📱+Crafting+Beautiful+User+Experiences;🚀+Always+Learning.+Always+Shipping." alt="Typing SVG"/>
+<!-- Glowing Name Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=👩‍💻+Flutter+%26+Dart+Developer;🔥+Firebase+%7C+Hive+%7C+Clean+Architecture;🤖+Building+AI-Powered+Mobile+Apps;📱+Crafting+Beautiful+User+Experiences;🚀+Always+Learning.+Always+Shipping."/>
 
 <br/>
 
-<!-- Badges -->
+<!-- Animated Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=ShailaSithara&color=A855F7&style=for-the-badge&label=👁️+PROFILE+VIEWS"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/ShailaSithara?style=for-the-badge&color=EC4899&labelColor=0D1117&logo=github&logoColor=white&label=✦+FOLLOWERS"/>
@@ -29,7 +29,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```dart
 ╔══════════════════════════════════════════════╗
@@ -87,6 +87,7 @@
 
 <br/>
 
+<!-- Animated Tech Badges -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117"/>
@@ -335,11 +336,7 @@ mindmap
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://github.com/ShailaSithara/ShailaSithara/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 <div align="center">
@@ -396,7 +393,6 @@ mindmap
 
 <br/>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,30:EC4899,60:A855F7,100:8B5CF6&height=160&section=footer&text=Made+with+💜+by+Shaila+Sithara+TT&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 
 </div>
